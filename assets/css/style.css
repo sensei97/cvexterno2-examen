@@ -21,3 +21,8 @@ nav{
 #portafolio{
     text-align: center;
 }
+
+.personal{
+    text-decoration: none;
+    list-style: none;
+}
